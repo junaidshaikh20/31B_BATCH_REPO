@@ -1,0 +1,6 @@
+# Prompt the user for their name
+name = input("Please enter your name: ")
+
+# Greet the user
+print(f"Hello, {name}! Welcome to the Python program.")
+
